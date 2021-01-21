@@ -8,3 +8,4 @@ Please view the code at [Python notebook](https://github.com/charliezcr/PCA/blob
 - [pandas](https://pandas.pydata.org/): data processing
 - [numpy](https://numpy.org/): linear algebra
 - [scikit-learn](https://scikit-learn.org/stable/index.html): machine learning
+- [matplotlib](https://matplotlib.org/): visualization
